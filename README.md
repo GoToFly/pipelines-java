@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/theonerk/VMO%20Android/_apis/build/status/GoToFly.pipelines-java)](https://dev.azure.com/theonerk/VMO%20Android/_build/latest?definitionId=2)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
